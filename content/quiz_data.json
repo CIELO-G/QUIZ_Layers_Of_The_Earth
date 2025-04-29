@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the outermost layer of the Earth?",
+    "information": "This layer includes the continents and ocean floors.",
+    "options": ["Crust", "Mantle", "Core", "Lithosphere"],
+    "answer": "Crust"
+  },
+  {
+    "question": "Which layer of the Earth is composed mostly of molten rock?",
+    "information": "This layer is located just beneath the crust.",
+    "options": ["Inner Core", "Outer Core", "Mantle", "Crust"],
+    "answer": "Mantle"
+  },
+  {
+    "question": "Which part of the Earth's core is solid?",
+    "information": "Despite high temperatures, immense pressure keeps this layer solid.",
+    "options": ["Outer Core", "Inner Core", "Mantle", "Crust"],
+    "answer": "Inner Core"
+  },
+  {
+    "question": "Which layer is responsible for Earth's magnetic field?",
+    "information": "Movement of liquid metals in this layer generates magnetic forces.",
+    "options": ["Crust", "Mantle", "Inner Core", "Outer Core"],
+    "answer": "Outer Core"
+  }
+]
